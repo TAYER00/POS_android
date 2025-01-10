@@ -47,6 +47,7 @@ dependencies:
   webview_flutter_android: ^4.2.0
   webview_flutter_wkwebview: ^3.16.3
   mockito: ^5.4.5
+  flutter_launcher_icons: ^0.14.2
 
 
 dev_dependencies:
